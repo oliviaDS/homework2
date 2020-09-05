@@ -1,0 +1,46 @@
+h2 {font-family: 'Oswald', sans-serif;
+}
+h2 {text-align:left;
+    padding: 10px;
+  }
+
+p {text-align: center;
+  font-family: 'Courgette', cursive;
+  }
+
+.page-header{text-d: cornflowerblue;
+}
+
+#responsive-image {
+    height:400px;
+    float:left;
+}
+#responsive-image * {
+    padding: 20px;
+}
+.wrapper {
+
+  width: 100%;
+  padding: 20px;
+}
+
+#image1 {
+  padding: 20px;
+}
+#image2 {
+  padding: 20px;
+}
+#image3 {
+    padding: 20px;
+}
+#image4 {
+      padding: 20px;
+}
+#image5 {
+        padding: 20px;     
+      
+@media screen and (max-width: 168px) {
+  body {
+    background-color: rgb(128, 127, 156);
+  }
+
