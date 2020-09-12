@@ -8,9 +8,18 @@ p {text-align: center;
   font-family: 'Courgette', cursive;
   }
 
-.page-header{text-d: cornflowerblue;
+.page-header{flex: cornflowerblue;
 }
-
+.card {
+  background-color: hsl(0, 0%, 100
+  border-radius: 50px;
+  border-width: 1px;
+  box-shadow: rgba(0, 0, 0, 0.15) 
+  color: hsl(206, 17%, 28%);
+  font-size: 18px;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 30px 40px;
 #responsive-image {
     height:400px;
     float:left;
